@@ -1,0 +1,12 @@
+"./Pin.obj"
+"./appication.obj"
+"./gpio_interrupt.obj"
+"./main.obj"
+"./tm4c123gh6pm_startup_ccs.obj"
+"./MCAL_layer/GPIO/hal_gpio.obj"
+"./lab3/Pin.obj"
+"./lab3/appication.obj"
+"./lab3/gpio_interrupt.obj"
+"../tm4c123gh6pm.cmd"
+-llibc.a
+-l"C:/ti/TivaWare_C_Series-2.2.0.295/driverlib/ccs/Debug/driverlib.lib"
